@@ -25,7 +25,7 @@ Make sure you have the following installed:
 ## Usage
 1. Run the script:
    ```bash
-   python roblox_friend_checker.py
+   python main.py
    ```
 
 2. Enter a valid **Roblox User ID** when prompted.
